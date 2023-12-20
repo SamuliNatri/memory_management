@@ -1,1 +1,1 @@
-Tutorial: https://samulinatri.com/blog/memory_allocator
+Tutorial: https://samulinatri.com/blog/memory_management
