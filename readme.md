@@ -1,0 +1,1 @@
+Tutorial: https://samulinatri.com/blog/memory_allocator
